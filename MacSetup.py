@@ -1,4 +1,4 @@
-" MacSetup.py to automate the early setup procedure's for Macs"
+" MacSetup.py to automate the early setup procedure's for Macs by Jeremiah Nofrada"
 #!/usr/local/bin/python
 import subprocess
 
